@@ -6,7 +6,7 @@ mkdir -p research
 touch src/helper.py
 touch src/prompt.py
 touch src/prompt.py
-touch.env
+touch .env
 touch setup.py
 touch app.py
 touch research/trials.ipynb
